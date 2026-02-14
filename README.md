@@ -273,4 +273,4 @@ MIT — see `LICENSE` for details.
 - scrcpy by Genymobile
 - Icons by lucide-react
 - Built with Electron, React & Vite
-*** End Patch```} /> ***!
+
